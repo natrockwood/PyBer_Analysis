@@ -7,4 +7,8 @@ Rural cities also have the least number of drivers which leads to a higher avera
 ![Data Summary](https://github.com/natrockwood/PyBer_Analysis/blob/master/Summary%20Data.PNG)
 
 ## Summary of Cities Over Time
-![Full]()
+As seen in the data below, there is no set trend for fare over the months. It fluctuates in all areas with multiple peaks and valleys. March through April seem to be the months with the most fluctuation. towards the summer months, fares decrease for rural and urban cities, while there's a significant increase in suburban cities.
+
+All in all, all cities fluctuate fares at around the same time of year.
+
+![FInal Summary](https://github.com/natrockwood/PyBer_Analysis/blob/master/analysis/fig8.png)
